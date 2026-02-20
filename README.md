@@ -1,4 +1,4 @@
-# 🎓 University FAQ Chatbot (RAG Based AI Assistant)
+# 🎓 University FAQ Chatbot 
 This Streamlit application is an AI-powered Campus Information Bot designed to provide students, faculty, and prospective applicants with instant, accurate university-related information. It automates the process of searching through 500+ pages of student handbooks, course catalogs, and campus policies, delivering reliable answers 24/7.
 
 ---
